@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20f157a06a1e401eb42ab8e21145263, type: 3}
+  m_Name: Graphic Settings
+  m_EditorClassIdentifier: 
+  screenshotLayerMasks:
+    serializedVersion: 2
+    m_Bits: 23
+  filePath: app/screenshots
+  applicationDataPath: 0
+  encodeTo: 2
+  HDR: 0
+  imageQuality: 80
+  addDateTimeToGraphicName: 1
+  dateTimeFormat: MMddyyyyHHmmss000
+  graphicName: screenshot_demo
+  autoClearMemory: 1
+  autoSaveSharedGraphic: 1
+  deleteImageAfterSave: 0
+  imageSize: 1
+  changeImageSizeIfWidthMore: 1024
+  changeImageSizeIfHeightMore: 1024
